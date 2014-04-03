@@ -6,11 +6,11 @@ Requires at least: 2.0.3
 Tested up to: 3.8
 Stable tag: trunk
 
-tracks feed and other things using google analytics.
+tracks feed and other things on WordPress site running ads campaigns using google analytics script.
 
 == Description ==
 
-tracks feed and other things using google analytics.
+tracks feed and other things on WordPress site running ads campaigns  using google analytics script.
 
 == Installation ==
 
